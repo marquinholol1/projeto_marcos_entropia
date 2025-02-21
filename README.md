@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/e863914c-53b2-4c51-8af5-4dc9e600c268)
+![Image](https://github.com/user-attachments/assets/bb22213b-93dd-42a2-9ea1-a7e93ab94b19)
 ## Python_entropy
 Este produto educacional constitui um dos resultados da dissertação de mestrado intitulada "Metodologia para o ensino de entropia via noções de teoria da informação", em execução desde 10/2024 com o apoio do MNPEF - POLO 67/UNIFAP, sob supervisão do Prof. Dr. Marcelo Pires.
 ## Pré-requsitos
