@@ -4,5 +4,3 @@ Este produto educacional constitui um dos resultados da dissertação de mestrad
 Para a utilização deste produto educacional, é necessário acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde se faz necessário que o estudante possua uma conta Google.
 # Como utilizar o Ambiente Digital
 https://github.com/user-attachments/assets/e98604a1-5961-44ec-b3e1-68e41bd84a10
-
-
