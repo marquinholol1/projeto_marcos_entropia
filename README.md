@@ -5,5 +5,3 @@ Este produto educacional constitui um dos resultados da dissertação de mestrad
 Para a utilização deste produto educacional, é necessário acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde se faz necessário que o estudante possua uma conta Google.
 ## Como utilizar o Ambiente Digital
 https://github.com/user-attachments/assets/fbfbd6c6-62aa-4db9-8ed4-c82a6d1f4a6c
-
-![Image](modelo_ehrenfest_animacao.gif)
