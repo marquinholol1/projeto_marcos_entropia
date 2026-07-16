@@ -18,7 +18,7 @@ e transferida para a outra câmara.
 
 ## Animação
 
-![Simulação animada do modelo de Ehrenfest](imagens/modelo_ehrenfest.gif)
+![Simulação animada do modelo de Ehrenfest](modelo_ehrenfest.gif)
 
 ## Execução
 
