@@ -5,3 +5,24 @@ Este produto educacional constitui um dos resultados da dissertação de mestrad
 Para a utilização deste produto educacional, é necessário acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde se faz necessário que o estudante possua uma conta Google.
 ## Como utilizar o Ambiente Digital
 https://github.com/user-attachments/assets/fbfbd6c6-62aa-4db9-8ed4-c82a6d1f4a6c
+
+
+
+# Simulação do modelo do gás de Ehrenfest
+
+Esta simulação representa partículas distribuídas entre duas câmaras
+conectadas por um canal estreito.
+
+Em cada passo de Monte Carlo, uma partícula é escolhida aleatoriamente
+e transferida para a outra câmara.
+
+## Animação
+
+![Simulação animada do modelo de Ehrenfest](imagens/modelo_ehrenfest.gif)
+
+## Execução
+
+Instale as bibliotecas:
+
+```bash
+pip install numpy matplotlib pillow
