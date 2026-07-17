@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/2369483b-2a9b-4dd3-88c9-07c5634270ea)
 ## Python_entropy
 Este produto educacional constitui um dos resultados da dissertação de mestrado intitulada "EXPLORANDO AS DIVERSAS ABORDAGENS SOBRE ENTROPIA: UMA SEQUÊNCIA DIDÁTICA POTENCIALMENTE SIGNIFICATIVA", em execução desde 10/2024 com o apoio do MNPEF - Polo 67/UNIFAP, sob supervisão dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
 ## Pré-requsitos
