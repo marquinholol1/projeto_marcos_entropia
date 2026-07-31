@@ -1,5 +1,5 @@
 ## Python_entropy
-Este produto educacional constitui um dos resultados da dissertação de mestrado intitulada "EXPLORANDO AS DIVERSAS ABORDAGENS SOBRE ENTROPIA: UMA SEQUÊNCIA DIDÁTICA POTENCIALMENTE SIGNIFICATIVA", em execução desde 10/2024 com o apoio do MNPEF - Polo 67/UNIFAP, sob supervisão dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
+Este produto educacional constitui um dos resultados da dissertação de mestrado intitulada "METODOLOGIA PARA O ENSINO DE ENTROPIA FÍSICA VIA NOÇÕES DE TEORIA DA INFORMAÇÃO", em execução desde 10/2024 com o apoio do MNPEF - Polo 67/UNIFAP, sob supervisão dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
 
 <p align="center">
   <img
