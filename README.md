@@ -1,21 +1,6 @@
 ## Python_entropy
 Este produto educacional constitui um dos resultados da dissertação de mestrado intitulada "METODOLOGIA PARA O ENSINO DE ENTROPIA FÍSICA VIA NOÇÕES DE TEORIA DA INFORMAÇÃO", em execução desde 10/2024 com o apoio do MNPEF - Polo 67/UNIFAP, sob supervisão dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
 
-<p align="center">
-  <img
-    src="./assets/gas_ehrenfest.gif"
-    alt="Simulação do modelo do gás de Ehrenfest"
-    width="100%"
-  >
-</p>
-
-<img src="./gas_ehrenfest.gif" alt="Simulação do gás de Ehrenfest" width="100%">
-
-<p align="center">
-  Simulação computacional desenvolvida em Python para o estudo da entropia,
-  do equilíbrio estatístico e das flutuações de partículas.
-</p>
-
 ## Pré-requsitos
 Para a utilização deste produto educacional, é necessário acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde se faz necessário que o estudante possua uma conta Google.
 
