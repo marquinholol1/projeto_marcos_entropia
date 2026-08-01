@@ -18,4 +18,4 @@ Para utilizar os materiais deste produto educacional, recomenda-se:
 
 Acesse o conteúdo desejado no repositório e abra o arquivo correspondente no Google Colab. O vídeo abaixo apresenta uma orientação inicial de uso:
 
-https://github.com/user-attachments/assets/fbfbd6c6-62aa-4db9-8ed4-c82a6d1f4a6c
+https://github.com/user-attachments/assets/2a7141de-0e34-44d7-a7ba-84934c0f0c7f
