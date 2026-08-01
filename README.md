@@ -4,7 +4,7 @@
 
 Este repositório reúne os códigos, simulações e materiais computacionais desenvolvidos como parte da dissertação de mestrado intitulada **“Metodologia para o Ensino de Entropia Física via Noções de Teoria da Informação”**, de **Marcos Cavalcante Furtado**, vinculada ao **Mestrado Nacional Profissional em Ensino de Física — MNPEF, Polo 67/UNIFAP**.
 
-A proposta integra entropia termodinâmica, entropia estatística e entropia informacional, com apoio de simulações em Python, incluindo o modelo de Ehrenfest, para favorecer a compreensão de microestados, macroestados, probabilidade, incerteza e equilíbrio estatístico. O traballho teve orientação dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
+A proposta integra entropia termodinâmica, entropia estatística e entropia informacional, com apoio de simulações em Python, incluindo o modelo de Ehrenfest, para favorecer a compreensão de microestados, macroestados, probabilidade, incerteza e equilíbrio estatístico. O traballho contou com a orientação dos professores Dr. Robert Zamora e Dr. Marcelo Pires.
 
 ## Pré-requisitos
 
